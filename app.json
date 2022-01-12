@@ -13,7 +13,7 @@
   ],
   "stack": "container"
   "env": {
-    "API_ID": {
+    "API_ID": { 2020284996
       "description": "Get this value from https://my.telegram.org",
       "value": "",
       "required": true
